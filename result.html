@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BigRedHack</title>
+
+  <link rel= "stylesheet" type= "text/css" href= "../static/styles/v1.css">
+  <!--
+  <script type="text/javascript" src="../static/instant.js"></script>-->
+    <!--{{ url_for('static', filename='map.js') }}-->
+    <script>
+        window.onbeforeunload = function () {
+            window.scrollTo(30, 0);
+        }
+    </script>
+
+    <script>
+        function scroll1(element) {
+            document.getElementById(element).scrollIntoView({
+                behavior: 'smooth'
+            });
+        }
+    </script>
+    <link rel="shortcut icon" href="../static/styles/images/171.PNG" type="image/x-icon" />
+</head>
+
+<body>
+    <h1>Big Red Hack</h1>
+        <table class="center">
+                <caption><h2>Company Info</h2></caption>
+                {% for key, value in result.items() %}
+                <tr>
+                    <th> {{ key }} </th>
+                    <td> {{ value }} </td>
+                </tr>
+                {% endfor %}
+      </table>
+</body>
+
+</html>

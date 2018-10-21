@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BigRedHack</title>
+  <link rel= "stylesheet" type= "text/css" href= "../static/styles/v1.css">
+  <link rel= "stylesheet" type= "text/css" href= "../static/styles/index.css">
+    <script>
+        window.onbeforeunload = function () {
+            window.scrollTo(30, 0);
+        }
+    </script>
+
+    <script>
+        function scroll1(element) {
+            document.getElementById(element).scrollIntoView({
+                behavior: 'smooth'
+            });
+        }
+    </script>
+
+    <link rel="shortcut icon" href="../static/styles/images/171.PNG" type="image/x-icon" />
+   
+</head>
+
+<body>
+    <h1>Big Red Hack</h1>
+    <form action = "http://localhost:5000/requests" method = "POST">
+        Company Name: <input type="text" name="name"><br>
+        <input type="radio" name="check" value="Ticker">Ticker<br>
+        <input type="radio" name="check" value="Price">Price<br>
+        <input type="radio" name="check" value="DivYield">Dividend Yield<br>
+        <input type="radio" name="check" value="MarketCap">Market Cap ($M)<br>
+        <input type="radio" name="check" value="PE">P/E Ratio<br>
+        <input type="radio" name="check" value="Payout">Payout Ratio<br>
+        <input type="submit" value="Submit">
+
+    </form>
+
+    
+    
+           
+</body>
+</html>

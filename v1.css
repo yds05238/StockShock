@@ -1,0 +1,103 @@
+/**
+.topnav {
+    background-color: transparent;
+    overflow: hidden;
+    color: black;
+}
+.topnav a {
+    position: relative;
+    float: center;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-right: 30px;
+}
+.topnav a:hover {
+    color: black;
+}
+.topnav a.active {
+    color: black;
+}
+
+
+h1 {
+  color: black;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 70px;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  
+  font-size: 36px;
+  text-align: center;
+}
+
+h3 {
+  color:black;
+  font-size: 24px;
+}
+
+body {
+    
+    text-align: center;
+}
+
+p {
+  color:black;
+  font-size: 24px;
+}
+
+contain {
+    width: 100vw;
+    height: 30vh;
+    text-align: center;
+    color: black; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    width: 100vw;
+    border: 0.5px solid black;
+    border-collapse: collapse;
+
+}
+tr {
+    width: 100vw;
+    border: 0.5px solid black;
+    align-items: center;
+    border-collapse: collapse;
+
+}
+th, td {
+    border: 0.5px solid black;
+    padding: 15px;
+    border-collapse: collapse;
+
+}
+
+.center {
+    align-items: center;
+    text-align: center;
+    display: inline-table
+}
+*/
+
+
+body { font-family: sans-serif; padding: 1em; }
+em { font-style: normal; background-color: cyan; }
+.ais-SearchBox { margin: 1em 0; }
+.ais-Pagination { margin-top: 1em }
+.left-panel { float: left; width: 250px; }
+.right-panel { margin-left: 260px; }
+.ais-InstantSearch { max-width: 960px; overflow: hidden; margin: 0 auto }
+.ais-Hits-item { margin-bottom: 1em; width: calc(50% - 1rem) }
+.ais-Hits-item img { margin-right: 1em }
+.hit-name { margin-bottom: .5em }
+.hit-description { color: #888; font-size: 14px; margin-bottom: .5em }

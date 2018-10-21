@@ -1,0 +1,911 @@
+[
+    {
+        "Company": "American Airlines Group Inc.",
+        "Ticker": "AAL",
+        "Price": 33.82,
+        "Dividend Yield": 1.2,
+        "Market Cap ($M)": 15325.7,
+        "P/E Ratio": 7.1,
+        "Payout Ratio": 8.6
+    },
+    {
+        "Company": "Apple Inc.",
+        "Ticker": "AAPL",
+        "Price": 219.69,
+        "Dividend Yield": 1.3,
+        "Market Cap ($M)": 1072968.1,
+        "P/E Ratio": 19.9,
+        "Payout Ratio": 26.2
+    },
+    {
+        "Company": "Adobe Inc.",
+        "Ticker": "ADBE",
+        "Price": 256.45,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 127241.8,
+        "P/E Ratio": 50.0,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Analog Devices Inc.",
+        "Ticker": "ADI",
+        "Price": 84.82,
+        "Dividend Yield": 2.2,
+        "Market Cap ($M)": 31874.4,
+        "P/E Ratio": 14.5,
+        "Payout Ratio": 32.5
+    },
+    {
+        "Company": "Automatic Data Processing Inc.",
+        "Ticker": "ADP",
+        "Price": 142.24,
+        "Dividend Yield": 1.9,
+        "Market Cap ($M)": 62676.4,
+        "P/E Ratio": 34.9,
+        "Payout Ratio": 67.3
+    },
+    {
+        "Company": "Autodesk Inc.",
+        "Ticker": "ADSK",
+        "Price": 139.24,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 30916.8,
+        "P/E Ratio": -77.8,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Align Technology Inc.",
+        "Ticker": "ALGN",
+        "Price": 333.53,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 26902.4,
+        "P/E Ratio": 71.4,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Alexion Pharmaceuticals Inc.",
+        "Ticker": "ALXN",
+        "Price": 126.86,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 28459.1,
+        "P/E Ratio": 21.2,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Applied Materials Inc.",
+        "Ticker": "AMAT",
+        "Price": 35.1,
+        "Dividend Yield": 2.3,
+        "Market Cap ($M)": 34168.8,
+        "P/E Ratio": 8.0,
+        "Payout Ratio": 18.3
+    },
+    {
+        "Company": "Amgen Inc.",
+        "Ticker": "AMGN",
+        "Price": 199.77,
+        "Dividend Yield": 2.6,
+        "Market Cap ($M)": 130969.0,
+        "P/E Ratio": 14.8,
+        "Payout Ratio": 38.7
+    },
+    {
+        "Company": "Amazon.com Inc.",
+        "Ticker": "AMZN",
+        "Price": 1818.07,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 887669.5,
+        "P/E Ratio": 165.0,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "ASML Holding N.V.",
+        "Ticker": "ASML",
+        "Price": 185.83,
+        "Dividend Yield": 0.8,
+        "Market Cap ($M)": 77514.1,
+        "P/E Ratio": 28.7,
+        "Payout Ratio": 22.7
+    },
+    {
+        "Company": "Activision Blizzard Inc",
+        "Ticker": "ATVI",
+        "Price": 77.19,
+        "Dividend Yield": 0.4,
+        "Market Cap ($M)": 60024.4,
+        "P/E Ratio": 34.9,
+        "Payout Ratio": 15.1
+    },
+    {
+        "Company": "Broadcom Inc.",
+        "Ticker": "AVGO",
+        "Price": 234.45,
+        "Dividend Yield": 2.9,
+        "Market Cap ($M)": 98532.6,
+        "P/E Ratio": 13.3,
+        "Payout Ratio": 39.0
+    },
+    {
+        "Company": "Baidu Inc.",
+        "Ticker": "BIDU",
+        "Price": 200.09,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 71145.3,
+        "P/E Ratio": 19.1,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Biogen Inc.",
+        "Ticker": "BIIB",
+        "Price": 335.74,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 68210.6,
+        "P/E Ratio": 14.3,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Booking Holdings Inc.",
+        "Ticker": "BKNG",
+        "Price": 1827.99,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 86886.6,
+        "P/E Ratio": 21.6,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "BioMarin Pharmaceutical Inc.",
+        "Ticker": "BMRN",
+        "Price": 104.63,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 18826.4,
+        "P/E Ratio": -209.3,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "CA Inc.",
+        "Ticker": "CA",
+        "Price": 43.79,
+        "Dividend Yield": 2.3,
+        "Market Cap ($M)": 18319.8,
+        "P/E Ratio": 19.1,
+        "Payout Ratio": 44.5
+    },
+    {
+        "Company": "Cadence Design Systems Inc.",
+        "Ticker": "CDNS",
+        "Price": 39.77,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 11408.5,
+        "P/E Ratio": 35.8,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Celgene Corporation",
+        "Ticker": "CELG",
+        "Price": 83.1,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 59279.4,
+        "P/E Ratio": 11.7,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Cerner Corporation",
+        "Ticker": "CERN",
+        "Price": 63.57,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 21178.0,
+        "P/E Ratio": 29.3,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Check Point Software Technologies Ltd.",
+        "Ticker": "CHKP",
+        "Price": 111.87,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 18018.6,
+        "P/E Ratio": 22.0,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Charter Communications Inc.",
+        "Ticker": "CHTR",
+        "Price": 315.47,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 74437.6,
+        "P/E Ratio": 108.8,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Comcast Corporation Class A Common Stock",
+        "Ticker": "CMCSA",
+        "Price": 35.82,
+        "Dividend Yield": 2.1,
+        "Market Cap ($M)": 164949.6,
+        "P/E Ratio": 15.7,
+        "Payout Ratio": 33.2
+    },
+    {
+        "Company": "Costco Wholesale Corporation",
+        "Ticker": "COST",
+        "Price": 225.87,
+        "Dividend Yield": 1.0,
+        "Market Cap ($M)": 99766.9,
+        "P/E Ratio": 34.4,
+        "Payout Ratio": 34.5
+    },
+    {
+        "Company": "Cisco Systems Inc.",
+        "Ticker": "CSCO",
+        "Price": 45.35,
+        "Dividend Yield": 2.9,
+        "Market Cap ($M)": 209458.5,
+        "P/E Ratio": 19.9,
+        "Payout Ratio": 57.3
+    },
+    {
+        "Company": "CSX Corporation",
+        "Ticker": "CSX",
+        "Price": 70.11,
+        "Dividend Yield": 1.2,
+        "Market Cap ($M)": 62006.1,
+        "P/E Ratio": 23.8,
+        "Payout Ratio": 29.1
+    },
+    {
+        "Company": "Cintas Corporation",
+        "Ticker": "CTAS",
+        "Price": 186.43,
+        "Dividend Yield": 0.9,
+        "Market Cap ($M)": 20300.6,
+        "P/E Ratio": 34.9,
+        "Payout Ratio": 29.8
+    },
+    {
+        "Company": "Ctrip.com International Ltd.",
+        "Ticker": "CTRP",
+        "Price": 35.05,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 18652.4,
+        "P/E Ratio": 32.2,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Cognizant Technology Solutions Corporation",
+        "Ticker": "CTSH",
+        "Price": 72.79,
+        "Dividend Yield": 1.1,
+        "Market Cap ($M)": 42647.2,
+        "P/E Ratio": 18.3,
+        "Payout Ratio": 19.9
+    },
+    {
+        "Company": "Citrix Systems Inc.",
+        "Ticker": "CTXS",
+        "Price": 104.08,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 14127.5,
+        "P/E Ratio": 22.8,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Dollar Tree Inc.",
+        "Ticker": "DLTR",
+        "Price": 85.58,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 20577.3,
+        "P/E Ratio": 19.6,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Electronic Arts Inc.",
+        "Ticker": "EA",
+        "Price": 107.34,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 32743.6,
+        "P/E Ratio": 30.7,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "eBay Inc.",
+        "Ticker": "EBAY",
+        "Price": 31.6,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 31913.0,
+        "P/E Ratio": 18.8,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Express Scripts Holding Company",
+        "Ticker": "ESRX",
+        "Price": 95.09,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 54087.3,
+        "P/E Ratio": 11.8,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Expedia Group Inc.",
+        "Ticker": "EXPE",
+        "Price": 119.26,
+        "Dividend Yield": 1.0,
+        "Market Cap ($M)": 18219.6,
+        "P/E Ratio": 33.6,
+        "Payout Ratio": 35.3
+    },
+    {
+        "Company": "Fastenal Company",
+        "Ticker": "FAST",
+        "Price": 52.32,
+        "Dividend Yield": 3.0,
+        "Market Cap ($M)": 15199.6,
+        "P/E Ratio": 21.0,
+        "Payout Ratio": 63.5
+    },
+    {
+        "Company": "Facebook Inc.",
+        "Ticker": "FB",
+        "Price": 158.46,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 458432.6,
+        "P/E Ratio": 21.9,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Fiserv Inc.",
+        "Ticker": "FISV",
+        "Price": 78.32,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 31932.6,
+        "P/E Ratio": 27.6,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Twenty-First Century Fox Inc.",
+        "Ticker": "FOXA",
+        "Price": 45.53,
+        "Dividend Yield": 0.8,
+        "Market Cap ($M)": 56102.2,
+        "P/E Ratio": 25.9,
+        "Payout Ratio": 20.3
+    },
+    {
+        "Company": "Gilead Sciences Inc.",
+        "Ticker": "GILD",
+        "Price": 75.23,
+        "Dividend Yield": 3.0,
+        "Market Cap ($M)": 98923.8,
+        "P/E Ratio": 10.8,
+        "Payout Ratio": 32.3
+    },
+    {
+        "Company": "Alphabet Inc.",
+        "Ticker": "GOOGL",
+        "Price": 1118.27,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 788258.6,
+        "P/E Ratio": 27.3,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Hasbro Inc.",
+        "Ticker": "HAS",
+        "Price": 100.62,
+        "Dividend Yield": 2.5,
+        "Market Cap ($M)": 12936.4,
+        "P/E Ratio": 20.2,
+        "Payout Ratio": 50.1
+    },
+    {
+        "Company": "Hologic Inc.",
+        "Ticker": "HOLX",
+        "Price": 41.17,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 11230.5,
+        "P/E Ratio": 19.1,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Henry Schein Inc.",
+        "Ticker": "HSIC",
+        "Price": 85.85,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 13025.2,
+        "P/E Ratio": 22.4,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "IDEXX Laboratories Inc.",
+        "Ticker": "IDXX",
+        "Price": 225.6,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 19551.4,
+        "P/E Ratio": 59.4,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Illumina Inc.",
+        "Ticker": "ILMN",
+        "Price": 324.58,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 48007.3,
+        "P/E Ratio": 59.8,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Incyte Corporation",
+        "Ticker": "INCY",
+        "Price": 64.33,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 13798.4,
+        "P/E Ratio": 459.5,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Intel Corporation",
+        "Ticker": "INTC",
+        "Price": 45.59,
+        "Dividend Yield": 2.6,
+        "Market Cap ($M)": 211829.3,
+        "P/E Ratio": 11.4,
+        "Payout Ratio": 29.8
+    },
+    {
+        "Company": "Intuit Inc.",
+        "Ticker": "INTU",
+        "Price": 214.94,
+        "Dividend Yield": 0.9,
+        "Market Cap ($M)": 55593.7,
+        "P/E Ratio": 46.7,
+        "Payout Ratio": 40.9
+    },
+    {
+        "Company": "Intuitive Surgical Inc.",
+        "Ticker": "ISRG",
+        "Price": 541.97,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 61754.7,
+        "P/E Ratio": 58.8,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "J.B. Hunt Transport Services Inc.",
+        "Ticker": "JBHT",
+        "Price": 112.23,
+        "Dividend Yield": 0.8,
+        "Market Cap ($M)": 12453.2,
+        "P/E Ratio": 22.7,
+        "Payout Ratio": 19.1
+    },
+    {
+        "Company": "JD.com Inc.",
+        "Ticker": "JD",
+        "Price": 23.76,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 35621.6,
+        "P/E Ratio": -396.0,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "The Kraft Heinz Company",
+        "Ticker": "KHC",
+        "Price": 55.77,
+        "Dividend Yield": 4.5,
+        "Market Cap ($M)": 67595.1,
+        "P/E Ratio": 15.4,
+        "Payout Ratio": 69.5
+    },
+    {
+        "Company": "KLA-Tencor Corporation",
+        "Ticker": "KLAC",
+        "Price": 93.7,
+        "Dividend Yield": 3.2,
+        "Market Cap ($M)": 14393.5,
+        "P/E Ratio": 12.6,
+        "Payout Ratio": 40.7
+    },
+    {
+        "Company": "Liberty Global plc Class A Ordinary Shares",
+        "Ticker": "LBTYA",
+        "Price": 26.33,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 20275.4,
+        "P/E Ratio": -13.9,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Liberty Global plc",
+        "Ticker": "LBTYK",
+        "Price": 25.7,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 19782.7,
+        "P/E Ratio": 0.0,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Lam Research Corporation",
+        "Ticker": "LRCX",
+        "Price": 147.33,
+        "Dividend Yield": 3.0,
+        "Market Cap ($M)": 22122.7,
+        "P/E Ratio": 9.4,
+        "Payout Ratio": 28.4
+    },
+    {
+        "Company": "Marriott International",
+        "Ticker": "MAR",
+        "Price": 116.88,
+        "Dividend Yield": 1.4,
+        "Market Cap ($M)": 40927.3,
+        "P/E Ratio": 22.1,
+        "Payout Ratio": 30.7
+    },
+    {
+        "Company": "Microchip Technology Incorporated",
+        "Ticker": "MCHP",
+        "Price": 68.56,
+        "Dividend Yield": 2.1,
+        "Market Cap ($M)": 16288.8,
+        "P/E Ratio": 13.7,
+        "Payout Ratio": 28.8
+    },
+    {
+        "Company": "Mondelez International Inc.",
+        "Ticker": "MDLZ",
+        "Price": 40.94,
+        "Dividend Yield": 2.5,
+        "Market Cap ($M)": 60539.6,
+        "P/E Ratio": 17.6,
+        "Payout Ratio": 44.5
+    },
+    {
+        "Company": "MercadoLibre Inc.",
+        "Ticker": "MELI",
+        "Price": 312.29,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 13935.6,
+        "P/E Ratio": 1076.9,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Monster Beverage Corporation",
+        "Ticker": "MNST",
+        "Price": 52.4,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 29339.0,
+        "P/E Ratio": 32.3,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Microsoft Corporation",
+        "Ticker": "MSFT",
+        "Price": 109.85,
+        "Dividend Yield": 1.7,
+        "Market Cap ($M)": 851172.1,
+        "P/E Ratio": 29.5,
+        "Payout Ratio": 48.8
+    },
+    {
+        "Company": "Micron Technology Inc.",
+        "Ticker": "MU",
+        "Price": 42.25,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 50115.4,
+        "P/E Ratio": 4.1,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Maxim Integrated Products Inc.",
+        "Ticker": "MXIM",
+        "Price": 52.55,
+        "Dividend Yield": 3.5,
+        "Market Cap ($M)": 14711.8,
+        "P/E Ratio": 20.1,
+        "Payout Ratio": 69.9
+    },
+    {
+        "Company": "Mylan N.V.",
+        "Ticker": "MYL",
+        "Price": 32.58,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 17070.4,
+        "P/E Ratio": 7.1,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Netflix Inc.",
+        "Ticker": "NFLX",
+        "Price": 365.46,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 150842.5,
+        "P/E Ratio": 166.9,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "NetEase Inc.",
+        "Ticker": "NTES",
+        "Price": 220.71,
+        "Dividend Yield": 1.1,
+        "Market Cap ($M)": 29581.8,
+        "P/E Ratio": 28.7,
+        "Payout Ratio": 30.9
+    },
+    {
+        "Company": "NVIDIA Corporation",
+        "Ticker": "NVDA",
+        "Price": 242.6,
+        "Dividend Yield": 0.2,
+        "Market Cap ($M)": 149464.6,
+        "P/E Ratio": 59.8,
+        "Payout Ratio": 14.6
+    },
+    {
+        "Company": "O'Reilly Automotive Inc.",
+        "Ticker": "ORLY",
+        "Price": 330.63,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 27977.1,
+        "P/E Ratio": 23.6,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Paychex Inc.",
+        "Ticker": "PAYX",
+        "Price": 68.22,
+        "Dividend Yield": 3.3,
+        "Market Cap ($M)": 24737.2,
+        "P/E Ratio": 28.7,
+        "Payout Ratio": 93.2
+    },
+    {
+        "Company": "PACCAR Inc.",
+        "Ticker": "PCAR",
+        "Price": 61.24,
+        "Dividend Yield": 1.8,
+        "Market Cap ($M)": 22063.2,
+        "P/E Ratio": 11.4,
+        "Payout Ratio": 20.3
+    },
+    {
+        "Company": "PepsiCo Inc.",
+        "Ticker": "PEP",
+        "Price": 107.4,
+        "Dividend Yield": 3.5,
+        "Market Cap ($M)": 151588.3,
+        "P/E Ratio": 19.6,
+        "Payout Ratio": 67.8
+    },
+    {
+        "Company": "PayPal Holdings Inc.",
+        "Ticker": "PYPL",
+        "Price": 79.71,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 95415.8,
+        "P/E Ratio": 48.9,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "QUALCOMM Incorporated",
+        "Ticker": "QCOM",
+        "Price": 65.58,
+        "Dividend Yield": 3.8,
+        "Market Cap ($M)": 97138.8,
+        "P/E Ratio": 20.2,
+        "Payout Ratio": 75.7
+    },
+    {
+        "Company": "Qurate Retail Inc. Series A Common Stock",
+        "Ticker": "QRTEA",
+        "Price": 22.15,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 10093.9,
+        "P/E Ratio": 6.4,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Regeneron Pharmaceuticals Inc.",
+        "Ticker": "REGN",
+        "Price": 394.6,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 43062.6,
+        "P/E Ratio": 24.0,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Ross Stores Inc.",
+        "Ticker": "ROST",
+        "Price": 95.87,
+        "Dividend Yield": 0.9,
+        "Market Cap ($M)": 36709.3,
+        "P/E Ratio": 30.6,
+        "Payout Ratio": 28.0
+    },
+    {
+        "Company": "Starbucks Corporation",
+        "Ticker": "SBUX",
+        "Price": 58.52,
+        "Dividend Yield": 2.5,
+        "Market Cap ($M)": 77991.5,
+        "P/E Ratio": 24.9,
+        "Payout Ratio": 62.0
+    },
+    {
+        "Company": "Shire plc",
+        "Ticker": "SHPG",
+        "Price": 175.77,
+        "Dividend Yield": 0.2,
+        "Market Cap ($M)": 53513.4,
+        "P/E Ratio": 11.3,
+        "Payout Ratio": 2.2
+    },
+    {
+        "Company": "Sirius XM Holdings Inc.",
+        "Ticker": "SIRI",
+        "Price": 6.27,
+        "Dividend Yield": 0.8,
+        "Market Cap ($M)": 28098.2,
+        "P/E Ratio": 27.2,
+        "Payout Ratio": 20.9
+    },
+    {
+        "Company": "Synopsys Inc.",
+        "Ticker": "SNPS",
+        "Price": 88.65,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 13260.0,
+        "P/E Ratio": 78.4,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Seagate Technology PLC",
+        "Ticker": "STX",
+        "Price": 43.48,
+        "Dividend Yield": 5.7,
+        "Market Cap ($M)": 12699.8,
+        "P/E Ratio": 9.6,
+        "Payout Ratio": 54.6
+    },
+    {
+        "Company": "Skyworks Solutions Inc.",
+        "Ticker": "SWKS",
+        "Price": 87.7,
+        "Dividend Yield": 1.7,
+        "Market Cap ($M)": 15875.7,
+        "P/E Ratio": 13.3,
+        "Payout Ratio": 22.7
+    },
+    {
+        "Company": "Symantec Corporation",
+        "Ticker": "SYMC",
+        "Price": 20.31,
+        "Dividend Yield": 1.5,
+        "Market Cap ($M)": 12841.0,
+        "P/E Ratio": 25.7,
+        "Payout Ratio": 37.3
+    },
+    {
+        "Company": "T-Mobile US Inc.",
+        "Ticker": "TMUS",
+        "Price": 69.01,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 58408.1,
+        "P/E Ratio": 24.6,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Tesla Inc.",
+        "Ticker": "TSLA",
+        "Price": 272.06,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 47184.4,
+        "P/E Ratio": -17.2,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Take-Two Interactive Software Inc.",
+        "Ticker": "TTWO",
+        "Price": 131.03,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 15027.6,
+        "P/E Ratio": 43.2,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Texas Instruments Incorporated",
+        "Ticker": "TXN",
+        "Price": 101.43,
+        "Dividend Yield": 3.0,
+        "Market Cap ($M)": 99309.7,
+        "P/E Ratio": 20.6,
+        "Payout Ratio": 62.0
+    },
+    {
+        "Company": "Ulta Beauty Inc.",
+        "Ticker": "ULTA",
+        "Price": 280.13,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 17059.1,
+        "P/E Ratio": 36.5,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Vodafone Group Plc",
+        "Ticker": "VOD",
+        "Price": 20.1,
+        "Dividend Yield": 11.5,
+        "Market Cap ($M)": 54367.8,
+        "P/E Ratio": 0.0,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Verisk Analytics Inc.",
+        "Ticker": "VRSK",
+        "Price": 116.2,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 19144.1,
+        "P/E Ratio": 31.8,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Vertex Pharmaceuticals Incorporated",
+        "Ticker": "VRTX",
+        "Price": 182.05,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 47393.6,
+        "P/E Ratio": 105.8,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Walgreens Boots Alliance Inc.",
+        "Ticker": "WBA",
+        "Price": 76.07,
+        "Dividend Yield": 2.3,
+        "Market Cap ($M)": 72402.3,
+        "P/E Ratio": 13.0,
+        "Payout Ratio": 30.0
+    },
+    {
+        "Company": "Workday Inc.",
+        "Ticker": "WDAY",
+        "Price": 137.41,
+        "Dividend Yield": 0.0,
+        "Market Cap ($M)": 29119.2,
+        "P/E Ratio": -98.9,
+        "Payout Ratio": 0.0
+    },
+    {
+        "Company": "Western Digital Corporation",
+        "Ticker": "WDC",
+        "Price": 55.39,
+        "Dividend Yield": 3.6,
+        "Market Cap ($M)": 16268.9,
+        "P/E Ratio": 4.3,
+        "Payout Ratio": 15.3
+    },
+    {
+        "Company": "Wynn Resorts Limited",
+        "Ticker": "WYNN",
+        "Price": 117.86,
+        "Dividend Yield": 2.5,
+        "Market Cap ($M)": 12801.5,
+        "P/E Ratio": 17.5,
+        "Payout Ratio": 44.5
+    },
+    {
+        "Company": "Xilinx Inc.",
+        "Ticker": "XLNX",
+        "Price": 77.67,
+        "Dividend Yield": 1.8,
+        "Market Cap ($M)": 19952.4,
+        "P/E Ratio": 29.8,
+        "Payout Ratio": 54.3
+    },
+    {
+        "Company": "DENTSPLY SIRONA Inc.",
+        "Ticker": "XRAY",
+        "Price": 36.95,
+        "Dividend Yield": 0.9,
+        "Market Cap ($M)": 8257.9,
+        "P/E Ratio": 14.4,
+        "Payout Ratio": 13.5
+    }
+]
